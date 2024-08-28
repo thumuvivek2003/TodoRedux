@@ -1,0 +1,16 @@
+.app {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+
+.myBody{
+  max-width: 800px;
+  margin: 0px auto;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding:8px;
+  border-radius: 19px;
+  background-color: #EBD3F8;
+}
