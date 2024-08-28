@@ -6,9 +6,10 @@
     margin-bottom: 10px;
     border: 1px solid #ddd;
     border-radius: 5px;
-    width: 90%;
+    width: 98%;
     background-color: #f8f9fa;
     transition: background-color 0.3s ease-in-out;
+    margin-left: -12px;
   }
   
   .todo-item:hover {
