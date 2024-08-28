@@ -10,7 +10,7 @@ const Header = () => {
 
   return (
     <header className="header">
-      <h1>Todo List</h1>
+      <h1 style={{color:'white'}}>Todo List</h1>
       <div className="badges">
         <div className="badge total">
           <span>Total Todos:</span> {totalCount}

@@ -30,15 +30,16 @@
   }
   
   .badge.total {
-    background-color: #007bff; /* Blue */
+    background-color: #ECFFE6; /* Blue */
+    color: black;
   }
   
   .badge.completed {
-    background-color: #28a745; /* Green */
+    background-color: #295F98; /* Green */
   }
   
   .badge.remaining {
-    background-color: #ffc107; /* Yellow */
+    background-color: #EF5A6F; /* Yellow */
   }
   
   .badge:hover {
